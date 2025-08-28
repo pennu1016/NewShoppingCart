@@ -1,0 +1,210 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":1,
+             "product_name":"Tv",
+             "imgSrc":"HOME 1.jpg",
+             "price":5590
+             },
+             {
+             "product_id":2,
+             "product_name":"Refrigerator",
+             "imgSrc":"HOME 2.jpg",
+             "price": 8990
+             },
+             {
+             "product_id":3,
+             "product_name":"Electric Oven",
+             "imgSrc":"HOME 5.jpg",
+             "price":4499
+             },
+             {
+             "product_id":4,
+             "product_name":"AC",
+             "imgSrc":"HOME 4.jpg",
+             "price":20000
+             
+             },
+             {
+             "product_id":5,
+             "product_name":"Mixer Grinder",
+             "imgSrc":"HOME 3.webp",
+             "price":1999
+             },
+             {
+             "product_id":6,
+             "product_name":"Vacuum Cleaner",
+             "imgSrc":"HOME 6.webp",
+             "price":18000
+             
+             }]
+            
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":7,
+            "product_name":"Mongo Drink",
+            "imgSrc":"FOOD 4.jpg",
+            "price":50
+            },
+            {
+            "product_id":8,
+            "product_name":"Veg Meals",
+            "imgSrc":"FOOD 2.png",
+            "price":180
+            },
+            {
+            "product_id":9,
+            "product_name":"Burger",
+            "imgSrc":"FOOD 3.avif",
+            "price":109
+            },
+            {
+            "product_id":10,
+            "product_name":"Pizza Medium Size",
+            "imgSrc":"FOOD 5.jpg",
+            "price":250
+           
+            },
+            {
+            "product_id":11,
+            "product_name":"Cake",
+            "imgSrc":"FOOD 1.webp",
+            "price":499
+            },
+            {
+            "product_id":12,
+            "product_name":"Biryani",
+            "imgSrc":"FOOD 6.jpg",
+            "price":359
+           
+            }
+        ]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":13,
+             "product_name":"Women kurthi",
+             "imgSrc":"WOMAN 1.jpg",
+             "price":600
+             },
+             {
+             "product_id":14,
+             "product_name":"Women Sarees",
+             "imgSrc":"WOMAN 3.webp",
+             "price":1200
+             },
+             {
+             "product_id":15,
+             "product_name":"Women Watch",
+             "imgSrc":"WOMAN 4.jpg",
+             "price":1000
+             },
+             {
+             "product_id":16,
+             "product_name":"Women Fancy dress",
+             "imgSrc":"WOMAN2.jpg",
+             "price":2300
+             
+             },
+             {
+             "product_id":17,
+             "product_name":"Women Jeans",
+             "imgSrc":"WOMAN 5.jpg",
+             "price":499
+             },
+             {
+             "product_id":18,
+             "product_name":"Women Jackets",
+             "imgSrc":"WOMAN 6.webp",
+             "price":2399
+             
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":19,
+              "product_name":"Man's watch",
+              "imgSrc":"MAN 1.webp",
+              "price":699
+              },
+              {
+              "product_id":20,
+              "product_name":"Man's jens",
+              "imgSrc":"MAN 2.webp",
+              "price":550
+              },
+              {
+              "product_id":21,
+              "product_name":"Man's T-shirt",
+              "imgSrc":"MAN 3.jpg",
+              "price":399
+              },
+              {
+              "product_id":22,
+              "product_name":"Man's suit",
+              "imgSrc":"MAN 4.avif",
+              "price":15650
+             
+              },
+              {
+              "product_id":23,
+              "product_name":"Man's Jacket",
+              "imgSrc":"MAN 5.webp",
+              "price":3999
+              },
+              {
+              "product_id":24,
+              "product_name":"Man's Shoes",
+              "imgSrc":"MAN 6.webp",
+              "price":1599
+             
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":25,
+              "product_name":"Success",
+              "imgSrc":"BOOK 1.webp",
+              "price":120
+              },
+              {
+              "product_id":26,
+              "product_name":"Engineering",
+              "imgSrc":"BOOK2.jpg",
+              "price":653
+              },
+              {
+              "product_id":27,
+              "product_name":"Computer",
+              "imgSrc":"BOOK 3.png",
+              "price":499
+              },
+              {
+              "product_id":28,
+              "product_name":"Story",
+              "imgSrc":"BOOK 4.jpg",
+              "price":320
+             
+              },
+              {
+              "product_id":29,
+              "product_name":"Horror Story",
+              "imgSrc":"BOOK 5.webp",
+              "price":210
+              },
+              {
+              "product_id":30,
+              "product_name":"Law Book",
+              "imgSrc":"BOOK 6.jpg",
+              "price":199
+             
+              }]
+}
+]
